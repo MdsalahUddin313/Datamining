@@ -1,0 +1,75 @@
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
+ASSOCIATION RULES
+eggs ( 1348 ) ---> mineral water ( 1788 )  confidence =  0.28338278931750743
+mineral water ( 1788 ) ---> spaghetti ( 1306 )  confidence =  0.2505592841163311
+spaghetti ( 1306 ) ---> mineral water ( 1788 )  confidence =  0.3430321592649311
+chocolate ( 1230 ) ---> mineral water ( 1788 )  confidence =  0.32113821138211385
